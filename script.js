@@ -3,6 +3,5 @@ function adicionar() {
     const novaTarefa = document.getElementById('tarefa').value
 
     tarefas.unshift(novaTarefa)
-    
-
+    tarefas.forEach()
 }
